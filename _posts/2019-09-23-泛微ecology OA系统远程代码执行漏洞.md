@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      泛微e-cology OA系统远程代码执行漏洞
-subtitle:   泛微e-cology OA系统远程代码执行漏洞
+title:      泛微ecology OA系统远程代码执行漏洞
+subtitle:   泛微ecology OA
 date:       2019-09-23
 author:     看不尽的尘埃
 header-img: img/post-bg-ios9-web.jpg
