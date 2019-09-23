@@ -7,7 +7,7 @@ author:     看不尽的尘埃
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
-    - Confluence
+    - 漏洞复现
 ---
 ## 前言
 最近在给公司写指纹规则、漏洞检测和利用规则，因此漏洞复现的文章更新会比较频繁。

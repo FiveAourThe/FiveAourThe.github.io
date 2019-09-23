@@ -7,7 +7,7 @@ author:     看不尽的尘埃
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
-    - phpMyAdmin
+    - 渗透测试
 ---
 # 利用前提
 ## phpMyAdmin用户名和密码

@@ -7,8 +7,7 @@ author:     看不尽的尘埃
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
-    - 漏洞
-    - WordPress
+    - 渗透测试
 ---
 # 前言
 前几天在做Vulnhub DC-2 靶机的时候，80端口上的Web应用程序是WordPress，当时想用WPScan来枚举用户的，但是Kali Linux 和Parrot OS 上的WPScan都用不了了。于是，我上了google去搜了一些关于WordPress枚举用户的文章，顺便记录一下，以后实战中遇到WordPress的站可以多一些尝试！
