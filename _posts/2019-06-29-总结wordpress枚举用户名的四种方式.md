@@ -3,7 +3,7 @@ layout:     post
 title:      总结wordpress枚举用户名的四种方式
 subtitle:   如何枚举wordpress用户名？
 date:       2019-06-29
-author:     看不尽的尘埃
+author:     木已成舟
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:

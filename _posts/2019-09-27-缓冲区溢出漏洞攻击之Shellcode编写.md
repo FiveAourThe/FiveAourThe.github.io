@@ -3,7 +3,7 @@ layout:     post
 title:      缓冲区溢出漏洞攻击之Shellcode编写
 subtitle:   缓冲区溢出漏洞攻击之Shellcode编写
 date:       2019-09-27
-author:     看不尽的尘埃
+author:     木已成舟
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
