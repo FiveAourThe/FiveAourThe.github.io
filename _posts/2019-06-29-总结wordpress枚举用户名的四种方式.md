@@ -4,7 +4,7 @@ title:      总结wordpress枚举用户名的四种方式
 subtitle:   如何枚举wordpress用户名？
 date:       2019-06-29
 author:     木已成舟
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-rwd.jpg
 catalog: 	 true
 tags:
     - 渗透测试
